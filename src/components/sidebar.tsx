@@ -41,9 +41,9 @@ return (
             </a>
         </div>
         <section className='nav_link_container'>
-            <a className='gradient_text' href='#contact'><h1>CONTACT</h1></a>
-            <a className='gradient_text' href='#projects'><h1>PROJECTS</h1></a>
-            <a className='gradient_text' href='#about'><h1>ABOUT</h1></a>
+            <a className='gradient_text' href='contact'><h1>CONTACT</h1></a>
+            <a className='gradient_text' href='projects'><h1>PROJECTS</h1></a>
+            <a className='gradient_text' href='about'><h1>ABOUT</h1></a>
         </section>
     </section>
 
