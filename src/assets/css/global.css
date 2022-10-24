@@ -89,6 +89,18 @@
     }
 }
 
+.home_profile_picture_button_nav_menu {
+    width: 8em;
+    border-radius: 1em;
+    opacity: 0.60;
+    transition-duration: 300ms;
+}
+
+.home_profile_picture_button_nav_menu:hover {
+    transition-duration: 300ms;
+    opacity: 1;
+}
+
 .home_profile_picture_button {
     width: 2em;
     border-radius: 1em;
@@ -297,6 +309,16 @@ body {
     background-color: var(--dark-gray);
     opacity: 0;
     animation: nav-close2 1s ;
+}
+
+.project_type_divider {
+    background-color: var(--gray-accent);
+
+    width: 100%;
+    height: 0.25em;
+    border-radius: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 .project_page {
