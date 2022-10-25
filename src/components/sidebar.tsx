@@ -18,6 +18,9 @@ return (
 
         <div className='sidebar_lower_links'>
             <a href='https://instagram.com/tur_lx'>
+                <i className="fa-solid fa-envelope fa-xl" />
+            </a>
+            <a href='https://instagram.com/tur_lx'>
                 <i className="fa-brands fa-instagram fa-xl" />
             </a>
             <a href='https://github.com/TurlxTheHuman'>
