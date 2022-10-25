@@ -40,7 +40,7 @@ return (
                     <i className="fa-solid fa-eye fa-lg" />
                 </a>
             </div>
-            <img src='/assets/img/projects/nginx-not-found.png' alt='project-preview' />
+            <img src='/assets/img/projects/dropnode.png' alt='project-preview' />
         </div>
         <div className='project_card'>
             <div>
