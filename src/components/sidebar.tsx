@@ -45,9 +45,9 @@ return (
         </div>
         <section className='nav_link_container'>
             <a className='gradient_text' href='/'><img src='/assets/img/profile-picture.jpg' className="home_profile_picture_button_nav_menu"  /></a>
-            <a className='gradient_text' href='/contact'><h1>CONTACT</h1></a>
-            <a className='gradient_text' href='/projects'><h1>PROJECTS</h1></a>
-            <a className='gradient_text' href='/about'><h1>ABOUT</h1></a>
+            <a className='gradient_text' href='/contact'><h2>CONTACT</h2></a>
+            <a className='gradient_text' href='/projects'><h2>PROJECTS</h2></a>
+            <a className='gradient_text' href='/about'><h2>ABOUT</h2></a>
         </section>
     </section>
 
