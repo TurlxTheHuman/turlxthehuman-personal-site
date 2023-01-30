@@ -10,6 +10,7 @@ import Sidebar from './components/sidebar';
 /* CONTENT IMPORTS */
 import Main from './pages/home/index';
 import Projects from './pages/projects/projects';
+import About from './pages/about/about';
 
 import NotFound from './pages/misc/404';
 
@@ -37,6 +38,7 @@ return (
 
 
   <Route path="/projects" element={<Projects />}/>
+  <Route path="/about" element={<About />} />
   <Route path="*" element={<NotFound />}/>
 
   </Routes>

@@ -465,3 +465,7 @@ p {
     background-size: cover;
     background-position: 50% 50%;
   }
+
+  .text_left {
+    text-align: left;
+  }

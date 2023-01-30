@@ -25,7 +25,7 @@ const particlesLoaded = useCallback(async (container: Container | undefined) => 
             options={{
                 background: {
                     color: {
-                        value: "#0C1314",
+                        value: "#111518",
                     },
                 },
                 fpsLimit: 120,
