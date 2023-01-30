@@ -200,6 +200,7 @@ h1 {
 .sidebar_top_nav > a {
     color: var(--gray-accent);
     margin: 0.25em;
+    margin-top: 0.5em;
     text-align: center;
     transition-duration: 300ms;
 }
