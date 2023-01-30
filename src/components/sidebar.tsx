@@ -17,7 +17,7 @@ return (
         </div>
 
         <div className='sidebar_lower_links'>
-            <a href='https://instagram.com/tur_lx'>
+            <a href='mailto:contact@turlxthehuman.com'>
                 <i className="fa-solid fa-envelope fa-xl" />
             </a>
             <a href='https://instagram.com/tur_lx'>
@@ -45,9 +45,9 @@ return (
         </div>
         <section className='nav_link_container'>
             <a className='gradient_text' href='/'><img src='/assets/img/profile-picture.jpg' className="home_profile_picture_button_nav_menu"  /></a>
-            <a className='gradient_text' href='/contact'><h2>CONTACT</h2></a>
-            <a className='gradient_text' href='/projects'><h2>PROJECTS</h2></a>
-            <a className='gradient_text' href='/about'><h2>ABOUT</h2></a>
+            <a className='gradient_text' href='mailto:contact@turlxthehuman.com'><h2>Contact</h2></a>
+            <a className='gradient_text' href='/projects'><h2>Projects</h2></a>
+            {/*<a className='gradient_text' href='/about'><h2>About</h2></a>*/}
         </section>
     </section>
 

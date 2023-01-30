@@ -21,7 +21,7 @@ return (
                 <a className='not_available_strikethrough'>
                     <i className="fa-brands fa-github fa-xl" />
                 </a>
-                <a href='https://path.net'>
+                <a href='https://path.turlxthehuman.com'>
                     <i className="fa-solid fa-eye fa-lg" />
                 </a>
             </div>
