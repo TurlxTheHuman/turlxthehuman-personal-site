@@ -1,0 +1,59 @@
+{
+    "web_projects": [{
+            "title": "Dropnode Hosting",
+            "description": "Game server hosting website that offers budget-based servers for a selection of games.",
+            "backgoundImage": "/assets/img/projects/dropnode.png",
+            "github": {
+                "enabled": false,
+                "href": ""
+            },
+            "product": {
+                "enabled": true,
+                "href": "https://dropnode.net"
+            }
+        },
+        {
+            "title": "Path Network",
+            "description": "Website for a network security and monitoring company that specializes in ddos protection.",
+            "backgroundImage": "/assets/img/projects/path-network.png",
+            "github": {
+                "enabled": false,
+                "href": ""
+            },
+            "product": {
+                "enabled": true,
+                "href": "https://path.turlxthehuman.com"
+            }
+        },
+        {
+            "title": "as57450.net",
+            "description": "Autonomous Systems Number (ASN) page that statically displays announced ip prefixes.",
+            "backgroundImage": "/assets/img/projects/nginx-not-found.png",
+            "github": {
+                "enabled": false,
+                "href": ""
+            },
+            "product": {
+                "enabled": true,
+                "href": "https://as57450.net"
+            }
+        }
+    ],
+
+    "misc_projects": [{
+        "title": "DHT-Exporter",
+        "description": "A prometheus metrics server used on an arduino based board called an ESP8266 which reads tempature sensor data using a DHT11 sensor.",
+        "backgroundImage": "/assets/img/projects/dhtexporter.png",
+        "github": {
+            "enabled": true,
+            "href": "https://github.com/TurlxTheHuman/dhtexporter"
+        },
+        "product": {
+            "enabled": true,
+            "href": "https://grafana.com/grafana/dashboards/16728-dhtexporter/"
+        }
+    }]
+
+
+
+}
