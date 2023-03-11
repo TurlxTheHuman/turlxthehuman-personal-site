@@ -2,21 +2,11 @@ import { useState } from 'react'
 import '../../assets/css/global.css'
 import projects from './projects.json'
 
+
 function Projects() {
 const [count, setCount] = useState(0)
 
-
-
-
-
-
-
-
 return (
-
-
-
-
 <section id='project_page'>
     <h1>Projects</h1>
     <p>List of my past and current projects, sites, etc.</p>

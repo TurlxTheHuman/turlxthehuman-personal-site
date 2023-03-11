@@ -5,8 +5,6 @@ function Sidebar() {
 const [toggle, toggleNav] = useState(false)
 
 const showSidebar = () => toggleNav(!toggle)
-
-console.log(showSidebar)
 return (
 <div>
     <section className="sidebar">
