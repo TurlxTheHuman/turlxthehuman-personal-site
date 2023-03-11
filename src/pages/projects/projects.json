@@ -1,8 +1,9 @@
 {
-    "web_projects": [{
+    "web_projects": [
+        {
             "title": "Dropnode Hosting",
             "description": "Game server hosting website that offers budget-based servers for a selection of games.",
-            "backgoundImage": "/assets/img/projects/dropnode.png",
+            "backgroundImage": "/assets/img/projects/dropnode.png",
             "github": {
                 "enabled": false,
                 "href": ""
