@@ -420,6 +420,7 @@ h1 {
 
 .project_card h2 {
     color: white;
+    line-height: 1;
     opacity: 1;
     top: 0;
     left: 0;
