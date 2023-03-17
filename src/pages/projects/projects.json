@@ -15,7 +15,7 @@
         },
         {
             "title": "Path Network",
-            "description": "Website for a network security and monitoring company that specializes in ddos protection.",
+            "description": "Website for a network security and monitoring company that specializes in ddos protection. [CONCEPT, NOT IN USE]",
             "backgroundImage": "/assets/img/projects/path-network.png",
             "github": {
                 "enabled": false,
@@ -41,7 +41,7 @@
         },
         {
             "title": "Turtlebyte Hosting",
-            "description": "Server hosting company that offers budget VPS, VDS, and Game servers.",
+            "description": "Server hosting company that offers budget VPS, VDS, and Game servers. [WIP]",
             "backgroundImage": "/assets/img/projects/turtlebyte.png",
             "github": {
                 "enabled": false,
