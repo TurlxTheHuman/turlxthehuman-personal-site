@@ -1,6 +1,6 @@
 :root {
     --codeblock-bg: #184400;
-    --card-bg: #38383885;
+    --card-bg: #212121;
     --text-p: #666666;
 }
 
@@ -24,9 +24,30 @@
     margin: 0.25rem auto;
 }
 
+.blog_preview_card .button {
+    padding: 0.5rem 1rem;
+    border: 1px solid white;
+    border-radius: 0.5rem;;
+
+    bottom: 0.25rem;
+}
+
+.blog_preview_card .button:hover {
+    transition-duration: 300ms;
+    padding: 0.60rem 1.10rem;
+}
+
+
+.blog_preview_card h2 {
+    font-size: 1.5rem;
+    color: white;
+    margin: 0;
+}
+
 .blog_preview_card p {
     color: var(--text-p);
     line-height: 1.5rem;
+    margin-bottom: 1rem;
 }
 
 #blog_page a {

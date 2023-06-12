@@ -6,9 +6,9 @@ const PostPreviews = (props: BlogMetadata) => {
         <a href={`/blog/${props.slug}`}>
             <h2>{props.title}</h2>
         </a>
-        
             <li>{props.date}</li>
             <p>{props.summary}</p>
+            <a className="button" href={'/blog/'+ props.slug}>Read More</a>
     </div>
     )
 }
