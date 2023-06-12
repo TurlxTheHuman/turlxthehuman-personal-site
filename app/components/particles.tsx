@@ -1,3 +1,4 @@
+'use client'
 import { useState, useCallback } from 'react';
 import type { Container, Engine } from "tsparticles-engine";
 import Particles from "react-tsparticles";
@@ -6,7 +7,6 @@ import { loadFull } from "tsparticles";
 
 
 function Particle() {
-
   const particlesInit = useCallback(async (engine: Engine) => {
     console.log(engine);
     await loadFull(engine);
@@ -58,7 +58,7 @@ const particlesLoaded = useCallback(async (container: Container | undefined) => 
                             enable: true,
                             area: 650,
                         },
-                        value: 50,
+                        value: 40,
                     },
                     opacity: {
                         value: 0.5,

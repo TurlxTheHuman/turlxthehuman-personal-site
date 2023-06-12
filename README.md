@@ -1,34 +1,34 @@
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-My [personal website](https://turlxthehuman.com) that is built using [Vitejs](https://vitejs.dev/) and [Reactjs](https://reactjs.org/) just to be used as a small portfolio/landing page so people can access my links. 
+## Getting Started
 
-You can view the site [here](https://turlxthehuman.com)
+First, run the development server:
 
-## Setup
-
-1) Install Needed Dependencies (Debian)
-
-```shell
-sudo apt-get install nodejs npm git
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
 ```
 
-2) Clone Github Repository (Personally Put All Websites In /var/www/ But You Do You) & CD into Directory
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-```shell
-git clone https://github.com/TurlxTheHuman/turlxthehuman-personal-site
-cd ./turlxthehuman-personal-site/
-```
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-3) Install all needed packages
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-```shell
-npm install
-npm run build
-```
+## Learn More
 
-4) Serve the website
+To learn more about Next.js, take a look at the following resources:
 
-```Shell
-npm run serve
-```
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-I will create a dockerfile or system file later, I use other things to host my sites.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

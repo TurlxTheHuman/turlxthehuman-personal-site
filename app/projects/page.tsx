@@ -1,5 +1,6 @@
+'use client'
 import { useState } from 'react'
-import '../../assets/css/global.css'
+import '../assets/css/global.css'
 import projects from './projects.json'
 
 
@@ -11,9 +12,9 @@ return (
     <h1>Projects</h1>
     <p>List of my past and current projects, sites, etc.</p>
 
-    <div className='project_type_divider' />
+    <div className='divider' />
 
-    <div className='project_grid'>
+    <div className='dual_grid'>
         {projects.web_projects.map((project) => (
         <div className='project_card'>
             <div>
@@ -48,9 +49,9 @@ return (
 
     </div>
 
-    <div className='project_type_divider' />
+    <div className='divider' />
 
-    <div className='project_grid'>
+    <div className='dual_grid'>
         {projects.misc_projects.map((project) => (
         <div className='project_card'>
             <div>
@@ -85,7 +86,7 @@ return (
 
     </div>
 
-    <div className='project_type_divider' />
+    <div className='divider' />
 
 </section>
 )

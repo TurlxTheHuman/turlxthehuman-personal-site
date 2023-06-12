@@ -1,3 +1,4 @@
+'use client'
 import { useState } from 'react'
 import '../assets/css/global.css'
 

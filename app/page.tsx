@@ -1,11 +1,9 @@
-import { useState, useCallback } from 'react';
-import '../../assets/css/global.css'
-import Particle from '../../components/particles';
+import './assets/css/global.css';
+import Particle from './components/particles';
 
 
 
 function Main() {
-  const [count, setCount] = useState(0)
 
   return (
     <div className='index_page_container'>
