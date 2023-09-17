@@ -35,8 +35,21 @@
                 "href": ""
             },
             "product": {
-                "enabled": true,
+                "enabled": false,
                 "href": "https://as57450.net"
+            }
+        },
+        {
+            "title": "as49132.net",
+            "description": "Autonomous Systems Number (ASN) landing page that shows quick links and IXP information via PeeringDB.",
+            "backgroundImage": "/assets/img/projects/as49132.png",
+            "github": {
+                "enabled": true,
+                "href": "https://github.com/TurlxTheHuman/asn-page"
+            },
+            "product": {
+                "enabled": true,
+                "href": "https://as49132.net"
             }
         },
         {
