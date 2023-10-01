@@ -10,7 +10,7 @@ function Main() {
         <Particle />
             
       <section id='hero' className='index_page_content'>
-        <img src='/assets/img/coolturtle.webp' className='cool_turtle' />
+        <img src='/assets/img/coolturtle.webp' className='cool_turtle' alt='cool-turtle' />
         <h1>TurlxTheHuman</h1>
         <p>- Small Developer -</p>
       </section>

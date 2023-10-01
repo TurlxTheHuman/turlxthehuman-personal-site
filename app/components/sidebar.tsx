@@ -29,7 +29,7 @@ return (
                 <i className="fa-brands fa-discord fa-lg" />
             </a>
             <a href='/'>
-                <img src='/assets/img/profile-picture.jpg' className="home_profile_picture_button"  />
+                <img src='/assets/img/profile-picture.jpg' className="home_profile_picture_button" alt='nav'  />
             </a>
         </div>
 
@@ -43,10 +43,10 @@ return (
             </a>
         </div>
         <section className='nav_link_container'>
-            <a className='gradient_text' href='/'><img src='/assets/img/profile-picture.jpg' className="home_profile_picture_button_nav_menu"  /></a>
+            <a className='gradient_text' href='https://turlxthehuman.com'><img src='/assets/img/profile-picture.jpg' alt="king-turtle" className="home_profile_picture_button_nav_menu" /></a>
             <a className='gradient_text' href='mailto:contact@turlxthehuman.com'><h2>Contact</h2></a>
-            <a className='gradient_text' href='/projects'><h2>Projects</h2></a>
-            <a className='gradient_text' href='/blog'><h2>Blog</h2></a>
+            <a className='gradient_text' href='https://turlxthehuman.com/projects'><h2>Projects</h2></a>
+            <a className='gradient_text' href='https://turlxthehuman.com/blog'><h2>Blog</h2></a>
             {/*<a className='gradient_text' href='/about'><h2>About</h2></a>*/}
         </section>
     </section>
