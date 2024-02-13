@@ -9,7 +9,7 @@
                 "href": ""
             },
             "product": {
-                "enabled": true,
+                "enabled": false,
                 "href": "https://dropnode.net"
             }
         },
@@ -62,7 +62,7 @@
             },
             "product": {
                 "enabled": true,
-                "href": "https://turtlebyte.net"
+                "href": "https://demo.turtlebyte.net"
             }
         }
     ],
